@@ -1,0 +1,3 @@
+<img src="https://ik.imagekit.io/haiayiel/HAIAYIEL/IMG_4361.JPG" />
+
+<img src="//www.yoursite.com/random_images_folder_path/mypicture.jpg" />
